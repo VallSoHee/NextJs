@@ -1,0 +1,5 @@
+.registerCard {
+  width: 100%;
+  max-width: 21rem; /* 384px */
+  margin: 0 auto; /* Center the card horizontally */
+}
